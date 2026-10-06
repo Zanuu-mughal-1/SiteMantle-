@@ -356,16 +356,16 @@ Fresh crawl verifies the changes
 ## Install from source
 
 ```bash
-git clone <YOUR-SITEMANTLE-REPOSITORY-URL>
-cd sitemantle
+git clone https://github.com/Zanuu-mughal-1/SiteMantle-
+cd sitemantle-
 python3 scripts/setup.py
 ```
 
 Windows PowerShell:
 
 ```powershell
-git clone <YOUR-SITEMANTLE-REPOSITORY-URL>
-cd sitemantle
+git clone https://github.com/Zanuu-mughal-1/SiteMantle-
+cd sitemantle-
 py -3 scripts/setup.py
 ```
 
